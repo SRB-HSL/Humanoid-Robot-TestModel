@@ -19,7 +19,7 @@
 #define DL 5
 #define RX 11
 #define TX 12
-#define LEDPin 13
+#define LEDPin 14
 
 int meanPitchArray[10] = {0,0,0,0,0,0,0,0,0,0};
 
